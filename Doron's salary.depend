@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1627332546 source:c:\users\user\desktop\c scores\doron's salary\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+	<string.h>
+
